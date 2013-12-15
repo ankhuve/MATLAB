@@ -28,3 +28,4 @@ for x = 1:rows
         end
     end
 end
+% imshow(Blurred,[]);
